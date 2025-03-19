@@ -3,7 +3,7 @@
 title: 季兆欣
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: jizhaoxin
 
 # Full name (for SEO)
 first_name: Zhaoxin 
