@@ -3,7 +3,7 @@
 title: 季兆欣
 
 # Name pronunciation (optional)
-name_pronunciation: jizhaoxin
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Zhaoxin 
@@ -11,7 +11,7 @@ last_name: Ji
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
